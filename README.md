@@ -8,6 +8,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 6 hrs 8 mins
+
 C#      2 hrs 55 mins   ████████████░░░░░░░░░░░░░   47.55 %
 Other   1 hr 47 mins    ███████▒░░░░░░░░░░░░░░░░░   29.12 %
 ```
