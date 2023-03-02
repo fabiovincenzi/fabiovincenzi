@@ -8,7 +8,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java   4 hrs 29 mins   █████████████████████████   100.00 %
+Java                 7 hrs 5 mins    █████████████████████████   99.71 %
+JFormDesigner_form   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
