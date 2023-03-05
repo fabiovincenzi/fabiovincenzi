@@ -8,9 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                 13 hrs 4 mins   ████████████████████████░   96.50 %
-XML                  27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-JFormDesigner_form   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Java                 17 hrs 49 mins  ████████████████████████▒   97.41 %
+XML                  27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+JFormDesigner_form   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
